@@ -1,0 +1,1 @@
+Tirar a atribuição do Embarked antes de tudo pq eu coloquei dps e atrapalhou tudo, mas eu preciso dar um jeito naqueles NaN. Pensar como irei fazer isso
